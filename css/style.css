@@ -1,0 +1,182 @@
+h2{
+	color: #023972;
+}
+
+.form{
+	background-color: #E7EAF3;
+	padding: 30px 50px;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+ul,li{
+	list-style-type: none;
+}
+
+
+li{
+	margin-top: 20px;
+}
+
+.field-title,label{
+	color: #1F2D76;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: normal;
+	margin: 0 5px;	
+}
+
+.field-title{
+	text-align: right;
+	width: 200px;
+}
+
+input[type = 'text'],input[type = 'password'],textarea{
+	padding: 10px;
+	width: 500px;
+}
+.note {
+	margin-left: 220px;
+}
+
+select,option{
+	padding: 5px;
+}
+
+input[type = 'file']{
+	display: inline-block;
+}
+
+.button, .direction {
+  margin-left: 212px;
+}
+
+.button{
+	font-size: 15px;
+	font-weight: bold;
+	padding: 10px 20px;
+}
+
+
+.direction {
+  margin: 10px 0 10px 212px;
+}
+
+.address-label{
+	position: relative;
+	top: -200px;
+}
+
+.notice,.msg,.forgot-password{
+	color: #ff0000;
+	font-style: italic;
+	font-size: 12px;
+}
+
+.forgot-password a{
+	text-decoration: none;
+}
+
+.notice,.forgot-password{
+	margin-left: 215px;
+	margin-top: 10px;
+}
+
+.message{
+	color: #00FF00;
+	font-size: 20px;
+	font-style: italic;
+	margin-top: 30px;
+}
+
+.search{
+	background-color: transparent !important;
+	margin-left: 100px;
+}
+
+.navbar-form .form-control{
+	width: 500px;
+}
+
+#top-menu{
+	padding: 10px 0;
+}
+
+#top-menu li{
+	margin-top: 0;
+}
+
+#top-menu .logo{
+	margin-top: -20px;
+}
+
+#top-menu .dropdown-menu a{
+	padding: 10px;
+}
+
+/*#top-menu .special{
+	margin-top: -10px;
+}*/
+
+#top-menu .special img{
+	margin-right: 10px;
+	margin-top: -3px;
+}
+
+#top-menu .navbar-right > li >a {
+	background-color: #efefef;
+	font-weight: bold;
+}
+
+#top-menu .navbar-right > li >a:hover{
+	background-color: #dfdfdf;
+}
+
+#footer{
+	background-color: #dfdfdf;
+	margin-top: 30px;
+	padding: 30px;
+	text-align: center;
+}
+
+th,td{
+	text-align: center;
+}
+
+#main-content .warning{
+	color: #ff0000;
+}
+
+/***********************************************************************************************/
+/* profile */
+/***********************************************************************************************/
+
+
+#profile{
+	text-align: center;
+}
+
+#profile .profile{
+	margin: 50px 0;
+}
+
+#profile .profile-title{
+	margin-bottom: 20px;
+}
+
+#profile .profile-user{
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+#profile table{
+	text-align: center;
+}
+
+#profile .button{
+	margin: 50px 30px !important;
+}
